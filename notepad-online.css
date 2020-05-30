@@ -3,3 +3,57 @@
 
 ############### .css ###############
 <div>.col-md-9.col-xs-12 {</div><div>background: #d1b3ff !important;</div><div>border: 4px double #8c65c7 !important;</div><div>border-top: none !important;</div><div>border-right: none !important;</div><div>border-bottom :none !important;</div><div>}</div><div><br></div><div>div.container.main {</div><div>background: #d1b3ff&nbsp;!important;</div><div>border: 4px double #8c65c7 !important;</div><div>border-left: none !important;</div><div>}</div>
+body {
+background: #113145 !important;
+color: #ffffff !important;
+}
+.navbar {
+background: #143C54 !important;
+border: 1px solid #91AFC2 !important;
+border-bottom: none !important;
+border-top: none !important;
+border-right: none !important;
+box-shadow: none !important;
+font-family: 'Bradley Hand';
+.navbar li a {
+color: #FFFFFF !important;
+}
+.navbar li a:hover {
+background: #8c65c7 !important;
+}
+.topbar {
+background: #483663 !important;
+color: #FFFFFF !important;
+border: 1px solid #91AFC2 !important;
+border-top: none !important;
+border-bottom: 4px solid #91AFC2 !important;
+}
+
+.sidebar {
+background: #091B26 !important;
+color: #C3DAE8 !important;
+border: none !important;
+}
+
+.panel {
+background: none !important;
+border: none !important;
+box-shadow: none !important;
+}
+
+.chat_light {
+background: #0F2F42 !important;
+color: #FFFFFF!important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+}
+
+.chat_dark {
+background: #091B26 !important;
+color: #FFFFFF !important;
+border: 1px solid #91AFC2 !important;
+text-align: center !important;
+}
+a:link {
+color: #ffc7e9 !important;
+}
